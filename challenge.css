@@ -1,0 +1,76 @@
+.main
+{   width: 20%;
+    background-color:  hsl(216, 50%, 16%);
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-left: 40%;
+    margin-top: 5%;
+    height: 50%;
+}
+.eth
+{   display:flex;
+    align-items: center;
+    
+    color: hsl(178, 100%, 50%);
+}
+
+.clo
+{   display: flex;
+    align-items: center;
+    width:75%;
+    color:  hsl(215, 51%, 70%);
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+.avatar{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+#avatar{
+    height: 30px;
+    margin-right: 10px;
+    
+    
+    
+    
+}
+#bold{
+    margin-left: 10px;
+}
+#equi{
+    height: 285px;
+    padding: 10px;
+    border-radius: 20px;
+    }
+
+    .all{
+    display: flex;
+    margin-left: 10px;
+    
+}
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+h3 {
+    margin: 10px;
+    color: aliceblue;
+}
+.equillibrium
+{   
+    margin-left: 10px;
+    color:  hsl(215, 51%, 70%);
+}
+.creation
+{   color:hsl(215, 51%, 70%) ;}
+#bold
+{color: white;}
+hr.one
+{
+    border: none;
+    height: 1px;
+    background:  hsl(215, 51%, 70%);
+    border-radius: 5px;
+    margin: 5px 30px;
+}
